@@ -63,7 +63,7 @@ We welcome contributions from the community! To contribute:
 Please adhere to our pull request rules and coding standards.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GPL-3.0 license. See the LICENSE file for details.
 
 ### Contact
 For questions, suggestions, or feedback, please open an issue on GitHub or contact fabian.heuer@freenet.de.

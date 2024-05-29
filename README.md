@@ -28,3 +28,44 @@ Welcome to the Mobile Robot Application project! This project involves the devel
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/hefa93/mobilerobot.git
+
+
+### Git Workflow
+   We follow a standardized Git workflow to maintain code quality and facilitate collaboration:
+
+  1. **Branching:**
+
+   main: Production-ready code.
+   develop: Latest development changes.
+   Feature branches: Created from develop for new features or bug fixes.
+
+  2. **Pull Requests:**:
+
+   All changes must be made through pull requests.
+   Ensure the branch is up to date with develop before creating a pull request.
+   Include a clear description of the changes.
+   Pass all unit tests and linting checks.
+   At least one reviewer must approve the pull request before merging.
+   
+   3. **Commits:**
+
+   Write clear and concise commit messages.
+   Follow the convention: type(scope): description (e.g., feat(mapping): add new SLAM algorithm).
+
+
+### Contributing
+We welcome contributions from the community! To contribute:
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Create a pull request against the develop branch.
+Please adhere to our pull request rules and coding standards.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+For questions, suggestions, or feedback, please open an issue on GitHub or contact fabian.heuer@freenet.de.
+
+Happy coding!
